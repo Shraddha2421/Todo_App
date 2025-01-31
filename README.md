@@ -23,17 +23,19 @@ To-Do application built with **React** and **Vite**. This app allows users to ma
 
 ##  Project Setup
 
-1️.**Clone the repository**
+1️. **Clone the repository**
 ```sh
 git clone https://github.com/Shraddha2421/ToDo_App.git
 cd Todo App
 ```
-2️.**Install dependencies**
+2️. **Install dependencies**
+
 Ensure that you have [Node.js](https://nodejs.org/) installed.
 ```sh
 npm install
 ```
-3️.**Start the development server**
+3️. **Start the development server**
+
 Run the app in development mode:
 ```sh
 npm run dev
