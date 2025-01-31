@@ -5,10 +5,10 @@ To-Do application built with **React** and **Vite**. This app allows users to ma
 
 ##  Features
 
- 1.**Add Task** – Add new tasks to your to-do list.  
- 2.**Edit Task** – Modify existing tasks.  
- 3.**Mark as Done** – Mark tasks as completed.  
- 4.**Delete Task** – Remove tasks that are no longer needed.  
+-  **Add Task** – Add new tasks to your to-do list.  
+-  **Edit Task** – Modify existing tasks.  
+-  **Mark as Done** – Mark tasks as completed.  
+-  **Delete Task** – Remove tasks that are no longer needed.  
 
 ---
 
